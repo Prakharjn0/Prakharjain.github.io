@@ -1,2 +1,2 @@
-# Prakharjain.github.io
+github.io
 Prakhar Jain Design Portfolio IIT Guwahati
